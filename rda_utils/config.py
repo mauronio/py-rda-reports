@@ -13,6 +13,6 @@ COLLECTIONS = (
 
 # Custom output path. 
 # By default, everything is saved at (project folder)/dist.
-OUTPUT_PATH = 'c:\\tmp'
-#OUTPUT_PATH = 'dist'
+#OUTPUT_PATH = 'c:\\tmp'
+OUTPUT_PATH = 'dist'
 
