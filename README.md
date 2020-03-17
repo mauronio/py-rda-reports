@@ -33,7 +33,7 @@ For these examples, we will assume you cd'ed to current py-rda-reports app folde
 
 3. Fetch dependencies
 
-        pip install requirements.txt
+        pip install -r requirements.txt
 
 ## Usage
 
